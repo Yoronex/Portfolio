@@ -1,0 +1,3 @@
+.background {
+    background: linear-gradient(to bottom,rgba(var(--bs-body-bg-rgb),.1) 0%,rgba(var(--bs-body-bg-rgb),.5) 80%,var(--bs-body-bg) 100%);
+}
